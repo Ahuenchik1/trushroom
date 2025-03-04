@@ -398,16 +398,16 @@
               <h4>Контакты</h4>
               <ul class="footer-contact">
                 <li><i class="fas fa-phone"></i> +7 (XXX) XXX-XX-XX</li>
-                <li><i class="fas fa-envelope"></i> info@mushroomfarm.ru</li>
-                <li><i class="fas fa-map-marker-alt"></i> г. Москва, ул. Грибная, д. 10</li>
+                <li><i class="fas fa-envelope"></i> Arhipovandq@yandex.ru</li>
+                <li><i class="fas fa-map-marker-alt"></i> г. Саратов, ул Примерная, 1</li>
               </ul>
             </div>
             <div class="col-lg-3 col-md-6">
               <h4>Социальные сети</h4>
               <div class="social-links">
-                <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
-                <a href="#" class="social-link"><i class="fab fa-facebook"></i></a>
-                <a href="#" class="social-link"><i class="fab fa-whatsapp"></i></a>
+                <a href="https://t.me/ArhipovAndr" class="social-link"><i class="fab fa-instagram"></i></a>
+                <a href="https://kwork.ru/user/arhipov_andrey" class="social-link"><i class="fab fa-facebook"></i></a>
+                <a href="https://kwork.ru/user/arhipov_andrey" class="social-link"><i class="fab fa-whatsapp"></i></a>
               </div>
             </div>
           </div>
